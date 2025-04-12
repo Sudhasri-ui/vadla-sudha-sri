@@ -20,11 +20,11 @@ I'm passionate about Building smart, interactive AR applications ,Creating intui
 CONNECT WITH ME:
 
 
-.Email : [](sudhasrivadla@gmail.com)
+.Email : [Email](sudhasrivadla@gmail.com)
 
-.Linkedln: [](https://www.linkedin.com/in/vadla-sudhasri-21b418288/)
+.Linkedln: [Linkedln](https://www.linkedin.com/in/vadla-sudhasri-21b418288/)
 
-.Github: [](https://github.com/Sudhasri-ui/vadla-sudha-sri/edit/main/README.md)
+.Github: [Github](https://github.com/Sudhasri-ui/vadla-sudha-sri/edit/main/README.md)
 
 
 FEEDBACK WELCOME:
