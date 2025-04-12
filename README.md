@@ -22,9 +22,9 @@ CONNECT WITH ME:
 
 .Email : [sudhasrivadla@gmail.com](sudhasrivadla@gmail.com)
 
-.Linkedln: [Linkedln](https://www.linkedin.com/in/vadla-sudhasri-21b418288/)
+.Linkedln: [https://www.linkedin.com/in/vadla-sudhasri-21b418288/](https://www.linkedin.com/in/vadla-sudhasri-21b418288/)
 
-.Github: [Github](https://github.com/Sudhasri-ui/vadla-sudha-sri/edit/main/README.md)
+.Github: [https://github.com/Sudhasri-ui/vadla-sudha-sri/edit/main/README.md](https://github.com/Sudhasri-ui/vadla-sudha-sri/edit/main/README.md)
 
 
 FEEDBACK WELCOME:
