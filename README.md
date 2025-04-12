@@ -20,7 +20,7 @@ I'm passionate about Building smart, interactive AR applications ,Creating intui
 CONNECT WITH ME:
 
 
-.Email : [sudhasrivadla@gmail.com](sudhasrivadla@gmail.com)
+.Email : [Email Me](mailto:sudhasrivadla@gmail.com)
 
 .Linkedln: [https://www.linkedin.com/in/vadla-sudhasri-21b418288/](https://www.linkedin.com/in/vadla-sudhasri-21b418288/)
 
