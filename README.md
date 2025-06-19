@@ -1,4 +1,4 @@
-Hey there I'm SUDHA SRI , a second year  Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning in Sridevi Womens Engineering College, with a strong passion for building tech that solves real-world problems. I’m currently working on an Augmented Reality Indoor Navigation System for my college — integrating Unity, OpenCV, Flask, and 3D mapping. Lets dive in!
+Hey there I'm SUDHA SRI , a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning in Sridevi Womens Engineering College, with a strong passion for building tech that solves real-world problems. I’m currently working on an Augmented Reality Indoor Navigation System for my college — integrating Unity, OpenCV, Flask, and 3D mapping. Lets dive in!
 
 Skills & Intrests:
 
